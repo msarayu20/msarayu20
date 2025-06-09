@@ -1,81 +1,147 @@
-# 👋 Hi there, I'm Sarayu Mandhapati!  
+<div align="center">
+  <!-- Cute Typing Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=6A9C89&center=true&vCenter=true&width=800&height=100&lines=Hello+there!+%F0%9F%91%8B+I'm+Sarayu;AI+%7C+Frontend+%7C+Cybersecurity+%E2%9C%A8;Building+digital+dreams+%F0%9F%92%AB" alt="Typing Animation" />
 
-Welcome to my GitHub profile! I'm a passionate **AI & ML student** with a love for **frontend development, cybersecurity, and full-stack projects**. Here, you'll find a mix of my academic projects, internships, and personal experiments with code. Let's build something amazing together!  
+  <br><br>
 
----
+  <!-- About Me Section -->
+  <img src="https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif" width="30" />
+  <strong style="font-size: 24px;">About Me</strong>
+  <img src="https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif" width="30" />
+  <br><br>
 
-## 🚀 **About Me**  
+  <!-- Info Box -->
+  <table>
+    <tr>
+      <td><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /></td>
+      <td align="left">
+        <code>🎓 B.Tech in AI/ML @ SRKR Engineering College (9.48 GPA)</code><br>
+        <code>💜 Frontend Developer | Cybersecurity Intern</code><br>
+        <code>🌱 Building intelligent solutions with React & Node</code><br>
+        <code>🏆 Champion Orator | Hackathon Winner</code><br>
+        <code>🎸 General Secretary of LOLO Band</code>
+      </td>
+    </tr>
+  </table>
 
-- 🎓 **Bachelor of Technology** in **Artificial Intelligence & Machine Learning** @ SRKR Engineering College (GPA: **9.48/10**)  
-- 💻 **Frontend Developer** at IFL Green Producer Company Ltd. (Jan 2024 – June 2024)  
-- 🔒 **Cybersecurity Intern** at IIDT Blackbucks Engineering Pvt.Ltd (June 2024 – July 2024)  
-- � **Hackathon Enthusiast** – Qualified for **Smart India Hackathon 2023 & 2024**  
-- 🎤 **Public Speaker** – Finalist in SRKR Orator Championship 2023 & 2024  
+  <br><br>
 
----
+  <!-- Divider -->
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" />
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" />
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" />
 
-## 🛠 **Tech Stack**  
+  <br><br>
 
-### **Languages**  
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  
+  <!-- Tech Stack -->
+  <h3>
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25" />
+    <code style="color: #9D5C8A;">My Tech Toolbox</code> 
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"  width="25" />
+  </h3>
 
-### **Web & Mobile**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)  
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)  
+  <p>
+    <img src="https://img.shields.io/badge/React-6A9C89?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-9D5C8A?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-6A9C89?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-9D5C8A?style=for-the-badge&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-6A9C89?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-9D5C8A?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-6A9C89?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-9D5C8A?style=for-the-badge&logo=git&logoColor=white" />
+  </p>
 
-### **Tools & Design**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)  
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code)  
+  <br><br>
 
----
+  <!-- Projects -->
+  <h3>
+    <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="30" />
+    <code style="color: #6A9C89;">Featured Projects</code> 
+    <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif"  width="30" />
+  </h3>
 
-## 🌟 **Featured Projects**  
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"  width="50" /><br>
+        <strong>🏥 Medtrax Hospital System</strong><br>
+        <em>AI-powered hospital management platform</em><br>
+        <code>React • Node • AI/ML</code>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif"  width="50" /><br>
+        <strong>🌱 IFL Nursery App</strong><br>
+        <em>Interactive plant catalog with optimized UI/UX</em><br>
+        <code>React • UI/UX • Frontend</code>
+      </td>
+    </tr>
+  </table>
 
-### **🏥 Medtrax (Hospital Management System)**  
-A **full-stack AI-assisted** platform for hospital integrations, quick appointments, and medical shop features.  
-🔹 **Tech:** React.js, MongoDB, Node.js, Express.js  
+  <br><br>
 
-### **🌱 IFL Nursery Application**  
-An intuitive web app for managing plant catalogs and purchases with a focus on **UI/UX**.  
-🔹 **Tech:** HTML, CSS, JavaScript  
+  <!-- GitHub Stats -->
+  <h3>
+    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"  width="25" />
+    <code style="color: #9D5C8A;">GitHub Stats</code>
+    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"  width="25" />
+  </h3>
 
-### **📱 Social Media Application**  
-An Instagram-like platform with image sharing, profiles, and interactive features.  
-🔹 **Tech:** React Native, TypeScript  
+  <img src="https://github-readme-stats.vercel.app/api?username=msarayu20&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=6A9C89&text_color=9D5C8A&icon_color=6A9C89&border_color=9D5C8A" alt="Sarayu's GitHub stats" loading="lazy" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msarayu20&theme=tokyonight&background=0d1117&ring=6A9C89&fire=9D5C8A&currStreakLabel=6A9C89&sideNums=9D5C8A&currStreakNum=6A9C89&dates=9D5C8A&sideLabels=6A9C89&border=9D5C8A" alt="GitHub Streak" loading="lazy" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=msarayu20&bg_color=0d1117&color=9D5C8A&line=6A9C89&point=9D5C8A&area=true&hide_border=true" alt="Activity Graph" loading="lazy" />
 
----
+  <br><br>
 
-## 🏆 **Achievements**  
+  <!-- Let's Connect -->
+  <h3>
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" />
+    <code style="color: #6A9C89;">Let's Connect & Create Magic!</code> 
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif"  width="30" />
+  </h3>
 
-- 🏅 **Best Implementation Award** – Prajwalan Hackathon  
-- 🚀 **Smart India Hackathon Qualifier (2023 & 2024)**  
-- 🎤 **Master Orator Championship Semi-Finalist 2023**  
+  <p>
+    <a href="https://linkedin.com/in/sarayu-m-s1020"><img  src="https://img.shields.io/badge/LinkedIn-6A9C89?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:msarayu005@gmail.com"><img src="https://img.shields.io/badge/Gmail-9D5C8A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://github.com/msarayu20"><img src="https://img.shields.io/badge/GitHub-6A9C89?style=for-the-badge&logo=github&logoColor=white" /></a>
+  </p>
 
----
+  <br><br>
 
-## 📫 **Let's Connect!**  
+  <!-- Footer -->
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30" height="30" />
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30" height="30" />
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30" height="30" />
+  <br><br>
+  <img src="https://media.giphy.com/media/3ohhweiVB36rAlqVCE/giphy.gif" width="200" loading="lazy" />
+  <br><br>
+  <p><em style="color: #9D5C8A;">✨ "Code with creativity, build with passion, and sprinkle some magic!" ✨</em></p> 
 
-💌 **Email:** [msarayuo05@gmail.com](mailto:msarayuo05@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/sarayu-m-slozo](https://linkedin.com/in/sarayu-m-slozo)  
-🐙 **GitHub:** [github.com/msarayuzo](https://github.com/msarayuzo)  
+  <!-- Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=msarayu20&color=9D5C8A&style=for-the-badge&label=Profile+Views" alt="Profile Views" loading="lazy" />
 
----
+  <br><br>
 
-⭐ **Fun Fact:** When I'm not coding, I'm either jamming with my band (**General Secretary of LOLO Band!**) or polishing my public speaking skills!  
+  <!-- Contribution Grid -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/msarayu20/msarayu20/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/msarayu20/msarayu20/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/msarayu20/msarayu20/output/github-contribution-grid-snake.svg" loading="lazy">
+  </picture>
+</div>
 
-Thanks for stopping by! Let’s collaborate and create something **innovative** together. 😊  
 
-![GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif) *(Because every README needs a cute GIF!)*  
 
----  
-
-**"Code, Create, Conquer!"** 🚀
+<!--
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣶⣦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠿⠿⠿⠿⠿⠿⠿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+      Made with 💜 and lots of ☕
+-->
