@@ -1,4 +1,5 @@
 <div align="center">
+
   <!-- Cute Typing Header -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=6A9C89&center=true&vCenter=true&width=800&height=100&lines=Hello+there!+%F0%9F%91%8B+I'm+Sarayu;AI+%7C+Frontend+%7C+Cybersecurity+%E2%9C%A8;Building+digital+dreams+%F0%9F%92%AB" alt="Typing Animation" />
 
@@ -36,7 +37,7 @@
   <!-- Tech Stack -->
   <h3>
     <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25" />
-    <code style="color: #9D5C8A;">My Tech Toolbox</code> 
+    <code style="color: #9D5C8A;">My Tech Toolbox</code>    
     <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"  width="25" />
   </h3>
 
@@ -56,7 +57,7 @@
   <!-- Projects -->
   <h3>
     <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="30" />
-    <code style="color: #6A9C89;">Featured Projects</code> 
+    <code style="color: #6A9C89;">Featured Projects</code>    
     <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif"  width="30" />
   </h3>
 
@@ -97,7 +98,7 @@
   <!-- Let's Connect -->
   <h3>
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" />
-    <code style="color: #6A9C89;">Let's Connect & Create Magic!</code> 
+    <code style="color: #6A9C89;">Let's Connect & Create Magic!</code>    
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif"  width="30" />
   </h3>
 
@@ -116,32 +117,18 @@
   <br><br>
   <img src="https://media.giphy.com/media/3ohhweiVB36rAlqVCE/giphy.gif" width="200" loading="lazy" />
   <br><br>
-  <p><em style="color: #9D5C8A;">✨ "Code with creativity, build with passion, and sprinkle some magic!" ✨</em></p> 
+  <p><em style="color: #9D5C8A;">✨ "Code with creativity, build with passion, and sprinkle some magic!" ✨</em></p>    
 
-  <!-- Visitor Counter -->
   <img src="https://komarev.com/ghpvc/?username=msarayu20&color=9D5C8A&style=for-the-badge&label=Profile+Views" alt="Profile Views" loading="lazy" />
 
   <br><br>
 
-  <!-- Contribution Grid -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/msarayu20/msarayu20/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/msarayu20/msarayu20/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/msarayu20/msarayu20/output/github-contribution-grid-snake.svg" loading="lazy">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/msarayu20/msarayu20/main/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/msarayu20/msarayu20/main/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/msarayu20/msarayu20/main/github-contribution-grid-snake.svg" loading="lazy">
   </picture>
+
 </div>
+Made with 💛 and lots of ☕ by ...   .-   .-.   .-   -.--   ..-
 
-
-
-<!--
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣶⣦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠿⠿⠿⠿⠿⠿⠿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-      Made with 💜 and lots of ☕
--->
