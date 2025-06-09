@@ -1,60 +1,57 @@
 <div align="center">
 
-  <!-- Cute Typing Header -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=9D75B3&center=true&vCenter=true&width=800&height=100&lines=Hello+there!+%F0%9F%91%8B+I'm+Sarayu;AI+%7C+Frontend+%7C+Cybersecurity+%E2%9C%A8;Building+digital+dreams+%F0%9F%92%AB" alt="Typing Animation" />
 
   <br><br>
 
-  <!-- About Me Section -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hmODJ1am0waWowZ2ExeDgwZHRsOG92cXY4cG1mbnFsdWpuYjA3bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="30" />
   <strong style="font-size: 24px;">About Me</strong>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hmODJ1am0waWowZ2ExeDgwZHRsOG92cXY4cG1mbnFsdWpuYjA3bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="30" />
   <br><br>
 
-  <!-- Info Box -->
   <table>
     <tr>
       <td><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /></td>
       <td align="left">
-        <code>🎓 B.Tech in AI/ML @ SRKR Engineering College (9.48 GPA)</code><br>
-        <code>💜 Frontend Developer | Cybersecurity Intern</code><br>
-        <code>🌱 Building intelligent solutions with React & Node</code><br>
-        <code>🏆 Champion Orator | Hackathon Winner</code><br>
-        <code>🎸 General Secretary of LOLO Band</code>
+        <code>🌟 Innovative technologist crafting solutions at the intersection of AI/ML, frontend, security</code><br>
+        <code>🎓 B.Tech in Artificial Intelligence & Machine Learning @ SRKR Engineering College (GPA: 9.5)</code><br>
+        <code>🌱 On a journey to build impactful digital experiences with MERN, MEAN, MEVN and beyond</code><br>       
+        <code>💜 Frontend Developer | Cybersecurity Intern | Tableu Expert | UI/UX Designer</code><br>
+        <code>🏆 Champion Orator | Hackathon Winner | General Secretary of LOLO Band</code><br>
+        <code>🎸 Music lover, creative mind, and a lifelong learner..</code>
       </td>
     </tr>
   </table>
 
   <br><br>
 
-  <!-- Divider -->
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" />
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" />
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" />
 
   <br><br>
 
-  <!-- Tech Stack -->
-  <h3>
-    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25" />
-    <code style="color: #9D75B3;">My Tech Toolbox</code>       
-    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"     width="25" />
+   <h3>
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="24" />
+    <span style="color: #7A5CFA;">Tech Toolbox</span>
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="24" />
   </h3>
-
   <p>
-    <img src="https://img.shields.io/badge/React-6A5C38?style=for-the-badge&logo=react&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-9D75B3?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-386A5C?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-4D4D4D?style=for-the-badge&logo=javascript&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-6A5C38?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-9D75B3?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-386A5C?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-4D4D4D?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-7A5CFA?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+    <img src="https://img.shields.io/badge/Node.js-3CBA54?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/HTML5-F45D48?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/Figma-7A5CFA?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+    <img src="https://img.shields.io/badge/Linux-22223B?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
   </p>
+  <br/>
 
-  <br><br>
-
-  <!-- Projects -->
   <h3>
     <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="30" />
     <code style="color: #6A5C38;">Featured Projects</code>       
@@ -80,7 +77,6 @@
 
   <br><br>
 
-  <!-- GitHub Stats -->
   <h3>
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"     width="25" />
     <code style="color: #9D75B3;">GitHub Stats</code>
@@ -95,7 +91,6 @@
 
   <br><br>
 
-  <!-- Let's Connect -->
   <h3>
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" />
     <code style="color: #6A5C38;">Let's Connect & Create Magic!</code>       
@@ -110,7 +105,6 @@
 
   <br><br>
 
-  <!-- Footer -->
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30" height="30" />
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30" height="30" />
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30" height="30" />
@@ -123,7 +117,6 @@
 
   <br><br>
 
-  <!-- Contribution Grid -->
   <svg>
     <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/msarayu20/msarayu20/45f5ca7244c3f956c045cdba94f611cd4dc93d12/github-contribution-grid-snake.svg" loading="lazy">
   </svg>
