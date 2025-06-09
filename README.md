@@ -6,9 +6,9 @@
   <br><br>
 
   <!-- About Me Section -->
-  <img src="https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif" width="30" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hmODJ1am0waWowZ2ExeDgwZHRsOG92cXY4cG1mbnFsdWpuYjA3bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="30" />
   <strong style="font-size: 24px;">About Me</strong>
-  <img src="https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif" width="30" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hmODJ1am0waWowZ2ExeDgwZHRsOG92cXY4cG1mbnFsdWpuYjA3bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="30" />
   <br><br>
 
   <!-- Info Box -->
@@ -64,13 +64,13 @@
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"     width="50" /><br>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJxNGloOHlpMmN6Z2Y1OTM3NHR3NGh4dmo5eDlmaGUxYnRoM3lmbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/McUmToexow2vZq8iaj/giphy.gif"     width="50" /><br>
         <strong>🏥 Medtrax Hospital System</strong><br>
         <em>AI-powered hospital management platform</em><br>
         <code>React • Node • AI/ML</code>
       </td>
       <td width="50%" align="center">
-        <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif"     width="50" /><br>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZqMDBvYnNqc28wNWthaWduaHdsZmNuMGNybzBrbTJtZWlhdndoYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IbsQ8L4PTQ53SH7FnL/giphy.gif"     width="50" /><br>
         <strong>🌱 IFL Nursery App</strong><br>
         <em>Interactive plant catalog with optimized UI/UX</em><br>
         <code>React • UI/UX • Frontend</code>
@@ -91,7 +91,7 @@
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=msarayu20&theme=tokyonight&background=0d1117&ring=6A5C38&fire=9D75B3&currStreakLabel=6A5C38&sideNums=9D75B3&currStreakNum=6A5C38&dates=9D75B3&sideLabels=6A5C38&border=9D75B3" alt="GitHub Streak" loading="lazy" />
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=msarayu20&bg_color=0d1117&color=9D75B3&line=6A5C38&point=9D75B3&area=true&hide_border=true" alt="Activity Graph" loading="lazy" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=msarayu20&bg_color=0d1117&color=9D5C8A&line=6A9C89&point=9D5C8A&area=true&hide_border=true" alt="Activity Graph" loading="lazy" />
 
   <br><br>
 
@@ -115,7 +115,7 @@
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30" height="30" />
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30" height="30" />
   <br><br>
-  <img src="https://media.giphy.com/media/3ohhweiVB36rAlqVCE/giphy.gif" width="200" loading="lazy" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWEwMHh2cnVrNmFjbmtyNWJlcjZxbzM1anA2Mm9hdGp4eGt3cmh6diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YS7BctOtlyed2/giphy.gif" width="200" loading="lazy" />
   <br><br>
   <p><em style="color: #9D75B3;">✨ "Code with creativity, build with passion, and sprinkle some magic!" ✨</em></p>       
 
@@ -124,11 +124,9 @@
   <br><br>
 
   <!-- Contribution Grid -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/msarayu20/msarayu20/main/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/msarayu20/msarayu20/main/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/msarayu20/msarayu20/main/github-contribution-grid-snake.svg" loading="lazy">
-  </picture>
+  <svg>
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/msarayu20/msarayu20/45f5ca7244c3f956c045cdba94f611cd4dc93d12/github-contribution-grid-snake.svg" loading="lazy">
+  </svg>
 
 </div>
 
