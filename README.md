@@ -98,7 +98,7 @@
   </h3>
 
   <p>
-    <a href="https://linkedin.com/in/sarayu-m-s1020"><img     src="https://img.shields.io/badge/LinkedIn-9D75B3?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/sarayu-m-s1020"><img src="https://img.shields.io/badge/LinkedIn-9D75B3?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:msarayu005@gmail.com"><img src="https://img.shields.io/badge/Gmail-4D4D4D?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://github.com/msarayu20"><img src="https://img.shields.io/badge/GitHub-6A5C38?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
@@ -112,6 +112,8 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWEwMHh2cnVrNmFjbmtyNWJlcjZxbzM1anA2Mm9hdGp4eGt3cmh6diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YS7BctOtlyed2/giphy.gif" width="200" loading="lazy" />
   <br><br>
   <p><em style="color: #9D75B3;">✨ "Code with creativity, build with passion, and sprinkle some magic!" ✨</em></p>       
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=msarayu20&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
   <img src="https://komarev.com/ghpvc/?username=msarayu20&color=9D75B3&style=for-the-badge&label=Profile+Views" alt="Profile Views" loading="lazy" />
 
