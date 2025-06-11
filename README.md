@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=9D75B3&center=true&vCenter=true&width=800&height=100&lines=Hello+there!+%F0%9F%91%8B+I'm+Sarayu;AI+%7C+Frontend+%7C+Cybersecurity+%E2%9C%A8;Building+digital+dreams+%F0%9F%92%AB" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=6e5494&center=true&vCenter=true&width=800&height=100&lines=Hello+there!+%F0%9F%91%8B+I'm+Sarayu;AI+%7C+Frontend+%7C+Cybersecurity+%E2%9C%A8;Building+digital+dreams+%F0%9F%92%AB" alt="Typing Animation" />
   <br><br>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2hmODJ1am0waWowZ2ExeDgwZHRsOG92cXY4cG1mbnFsdWpuYjA3bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="30" />
   <strong style="font-size: 24px; color: #7A5CFA;">About Me</strong>
@@ -32,61 +32,60 @@
   
   <h3>
     <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="24" />
-    <span style="color: #7A5CFA;">Tech Toolbox</span>
+    <span style="color: #6B4C93;">Technical Skills</span>
     <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="24" />
   </h3>
 
   <br>
   
-  <h4 style="color: #9D75B3;">Frontend & Frameworks</h4>
+  <h4 style="color: #25923e;">Frontend & Frameworks</h4>
   <p>
-    <img src="https://img.shields.io/badge/HTML5-9D75B3?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-7A5CFA?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/JavaScript-9D75B3?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/React-7A5CFA?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-    <img src="https://img.shields.io/badge/Next.js-9D75B3?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/Vue.js-7A5CFA?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
-    <img src="https://img.shields.io/badge/Tailwind CSS-9D75B3?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-    <img src="https://img.shields.io/badge/Bootstrap-7A5CFA?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-    <img src="https://img.shields.io/badge/Three.js-9D75B3?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"/>
-    <img src="https://img.shields.io/badge/TypeScript-7A5CFA?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/Webflow-9D75B3?style=for-the-badge&logo=webflow&logoColor=white" alt="Webflow"/>
-  </p>
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+            <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+            <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+            <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+            <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+            <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+            <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"/>
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+            <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" alt="Webflow"/>
+        </p>
 
-  <h4 style="color: #7A5CFA;">Backend & Databases</h4>
+  <h4 style="color: #6B4C93;">Backend & Databases</h4>
+   <p>
+            <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+            <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+            <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+            <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+            <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+            <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+            <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+            <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+        </p>
+
+  <h4 style="color: #25923e;">Tools & Platforms</h4>
+   <p>
+            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+            <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+            <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+            <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+            <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+            <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+            <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+        </p>
+
+  <h4 style="color: #6B4C93;">Programming Languages</h4>
   <p>
-    <img src="https://img.shields.io/badge/Node.js-9D75B3?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Express-7A5CFA?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-    <img src="https://img.shields.io/badge/PHP-9D75B3?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-    <img src="https://img.shields.io/badge/Flask-7A5CFA?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-    <img src="https://img.shields.io/badge/MySQL-9D75B3?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/MongoDB-7A5CFA?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-9D75B3?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-    <img src="https://img.shields.io/badge/Firebase-7A5CFA?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
-    <img src="https://img.shields.io/badge/Supabase-9D75B3?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-  </p>
-
-  <h4 style="color: #9D75B3;">Tools & Platforms</h4>
-  <p>
-    <img src="https://img.shields.io/badge/Git-7A5CFA?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-9D75B3?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/Postman-7A5CFA?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-    <img src="https://img.shields.io/badge/Vercel-9D75B3?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-    <img src="https://img.shields.io/badge/Netlify-7A5CFA?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-    <img src="https://img.shields.io/badge/VS_Code-9D75B3?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-    <img src="https://img.shields.io/badge/Notion-7A5CFA?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-    <img src="https://img.shields.io/badge/Figma-9D75B3?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  </p>
-
-  <h4 style="color: #7A5CFA;">Programming Languages</h4>
-  <p>
-    <img src="https://img.shields.io/badge/C-9D75B3?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-    <img src="https://img.shields.io/badge/C++-7A5CFA?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-    <img src="https://img.shields.io/badge/Python-9D75B3?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/Java-7A5CFA?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/JavaScript-9D75B3?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-  </p>
-
+            <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+            <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+            <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+        </p>
 </div>
   <br/>
 
