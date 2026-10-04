@@ -150,8 +150,13 @@
   <br><br>
   <p><em style="color: #7A5CFA;">✨ "Code with creativity, build with passion, and sprinkle some magic!" ✨</em></p>       
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=msarayu20&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
+<br>
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="49%" />
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages" width="49%" />
+<br>
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" width="49%" />
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" width="49%" />
   <img src="https://komarev.com/ghpvc/?username=msarayu20&color=7A5CFA&style=for-the-badge&label=Profile+Views" alt="Profile Views" loading="lazy" />
 
   <br><br>
