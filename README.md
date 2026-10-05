@@ -140,12 +140,6 @@
     <a href="https://github.com/msarayu20"><img src="https://img.shields.io/badge/GitHub-7A5CFA?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
 
-  <br><br>
-
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30" height="30" />
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30" height="30" />
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30" height="30" />
-  <br><br>
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWEwMHh2cnVrNmFjbmtyNWJlcjZxbzM1anA2Mm9hdGp4eGt3cmh6diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YS7BctOtlyed2/giphy.gif" width="200" loading="lazy" />
   <br><br>
   <p><em style="color: #7A5CFA;">✨ "Code with creativity, build with passion, and sprinkle some magic!" ✨</em></p>       
